@@ -70,5 +70,3 @@ This project provides a hands-on approach to performing Chi-square, T-tests, and
 - Automating test selection based on data type.
 
 - Interactive dashboards for results visualization.
-
-Feel free to contribute or raise issues to improve this project!
